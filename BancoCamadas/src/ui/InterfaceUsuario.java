@@ -143,7 +143,6 @@ public class InterfaceUsuario {
     }
   }
 
-  // Método main para iniciar a aplicação
   public static void main(String[] args) {
     InterfaceUsuario interfaceUsuario = new InterfaceUsuario();
     interfaceUsuario.menuPrincipal();

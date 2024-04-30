@@ -10,7 +10,7 @@ public class Fachada implements IFachada {
   private IRepositorioConta repositorioConta;
 
   public Fachada() {
-    this.repositorioConta = new RepositorioContaArrayList(); // Utiliza o repositório em formato de array
+    this.repositorioConta = new RepositorioContaArrayList();
   }
 
   @Override
